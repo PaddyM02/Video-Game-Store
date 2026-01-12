@@ -1,0 +1,5 @@
+Alice Smith;alice@gmail.com
+Bob Jones;bob@gmail.com
+Charlie Kim;charlie@gmail.com
+Paddy M;paddy@gmail.com
+Emma F;emma@gmail.com
